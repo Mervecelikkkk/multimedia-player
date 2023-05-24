@@ -1,5 +1,5 @@
 # multimedia-player
-🖥️ Bu proje HTML, JavaScript ve WebOS SDK kullanılarak geliştirilen basit bir multimedya oynatıcı uygulamasıdır. Oynatıcı, bir dizi medya öğesini (resimler ve videolar) sırayla oynatır. Videoları otomatik olarak oynatırken ve oynatma kontrolleri sağlarken belirli bir süre (10 saniye) için görüntüleri görüntüler.
+🖥️ This project is a simple multimedia player application developed using HTML, JavaScript and WebOS SDK. The player plays a series of media items (images and videos) in sequence. It displays images for a specified duration (10 seconds) while automatically playing videos and providing playback controls.
 
 ## Installation
 Clone the project.
